@@ -11,8 +11,8 @@ Programmer
 
 <a href="https://www.twitter.com/Vansh_Avenger" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Vansh_Avenger?logo=twitter&style=for-the-badge&color=ef4444&labelColor=1c1917"
-/></a><a href="https://www.github.com/vanshavenger" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/vanshavenger?logo=github&style=for-the-badge&color=ef4444&labelColor=1c1917" /></a>
+/></a><a href="https://www.github.com/sidmish2309" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/sidmish2309?logo=github&style=for-the-badge&color=ef4444&labelColor=1c1917" /></a>
 ### Skills
 
 <p align="left">
