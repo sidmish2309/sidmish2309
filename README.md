@@ -1,13 +1,13 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vansh Chopra
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Siddharth Mishra
 ====================================================================================================================================
 
 Programmer
 -----------------------------------------
 
 * 🌍  I'm based in India
-* ✉️  You can contact me at [vanshchopra101@gmail.com](mailto:vanshchopra101@gmail.com)
+* ✉️  You can contact me at [sidharthmishra470@gmail.com](mailto:sidharthmishra470@gmail.com)
 * 🧠  I'm learning
-* ⚡  I am a huge fan of MCU.
+* ⚡  Looking for zero to infinity.
 
 <a href="https://www.twitter.com/Vansh_Avenger" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Vansh_Avenger?logo=twitter&style=for-the-badge&color=ef4444&labelColor=1c1917"
@@ -35,15 +35,15 @@ src="https://img.shields.io/github/followers/vanshavenger?logo=github&style=for-
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/vanshavenger" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/vansh_chopra24" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/vanshchopra1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Vansh_Avenger" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/sidmish2309" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/sidmish_here" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/vanshchopra1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Vansh_Avenger" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/vanshavenger"><img src="https://github-readme-stats.vercel.app/api?username=vanshavenger&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="vanshavenger's GitHub stats" /></a>
+<a href="http://www.github.com/sidmish2309"><img src="https://github-readme-stats.vercel.app/api?username=sidmish2309&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="Siddharth's GitHub stats" /></a>
 
-<a href="http://www.github.com/vanshavenger"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vanshavenger&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/sidmish2309"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sidmish2309&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/vanshavenger"><img src="https://activity-graph.herokuapp.com/graph?username=vanshavenger&bg_color=1c1917&color=ffffff&line=ef4444&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/sidmish2309"><img src="https://activity-graph.herokuapp.com/graph?username=sidmish2309&bg_color=1c1917&color=ffffff&line=ef4444&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/vanshavenger" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshavenger&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/sidmish2309" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidmish2309&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
