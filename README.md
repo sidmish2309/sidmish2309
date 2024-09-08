@@ -9,9 +9,7 @@ Programmer
 * 🧠  I'm learning
 * ⚡  Looking for zero to infinity.
 
-<a href="https://www.twitter.com/Vansh_Avenger" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/Vansh_Avenger?logo=twitter&style=for-the-badge&color=ef4444&labelColor=1c1917"
-/></a><a href="https://www.github.com/sidmish2309" target="_blank" rel="noreferrer"><img
+<a href="https://www.github.com/sidmish2309" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/sidmish2309?logo=github&style=for-the-badge&color=ef4444&labelColor=1c1917" /></a>
 ### Skills
 
@@ -35,7 +33,7 @@ src="https://img.shields.io/github/followers/sidmish2309?logo=github&style=for-t
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/sidmish2309" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/sidmish_here" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/vanshchopra1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Vansh_Avenger" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/sidmish2309" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/sidmish_here" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/siddharth-mishra-196a151b9/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> </p>
 ### Badges
 
 <b>My GitHub Stats</b>
