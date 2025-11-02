@@ -34,10 +34,11 @@ src="https://img.shields.io/github/followers/sidmish2309?logo=github&style=for-t
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/sidmish2309" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/sidmish_here" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/siddharth-mishra-196a151b9/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> </p>
+
 ### Badges
 [![An image of @sidmish2309's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sidmish2309)](https://holopin.io/@sidmish2309)
-<b>My GitHub Stats</b>
 
+<b>My GitHub Stats</b>
 <a href="http://www.github.com/sidmish2309"><img src="https://github-readme-stats.vercel.app/api?username=sidmish2309&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="Siddharth's GitHub stats" /></a>
 
 <a href="http://www.github.com/sidmish2309"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sidmish2309&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
