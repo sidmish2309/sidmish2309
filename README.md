@@ -1,17 +1,20 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Siddharth Mishra
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Siddharth Mishra
 ====================================================================================================================================
 
-Programmer
------------------------------------------
+### Programmer 👨‍💻
 
-* 🌍  I'm based in India
+* 🌍  I'm based in **India**
 * ✉️  You can contact me at [sidharthmishra470@gmail.com](mailto:sidharthmishra470@gmail.com)
-* 🧠  I'm learning
+* 🧠  I'm currently learning and exploring new technologies
 * ⚡  Looking for zero to infinity.
 
-<a href="https://www.github.com/sidmish2309" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/sidmish2309?logo=github&style=for-the-badge&color=ef4444&labelColor=1c1917" /></a>
-### Skills
+<a href="https://www.github.com/sidmish2309" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/github/followers/sidmish2309?logo=github&style=for-the-badge&color=ef4444&labelColor=1c1917" />
+</a>
+
+---
+
+### 🛠️ Skills
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
@@ -31,18 +34,43 @@ src="https://img.shields.io/github/followers/sidmish2309?logo=github&style=for-t
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
 </p>
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/sidmish2309" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/sidmish_here" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/siddharth-mishra-196a151b9/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> </p>
+### 🌐 Socials
 
-### Badges
+<p align="left">
+  <a href="https://www.github.com/sidmish2309" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+  </a>
+  <a href="http://www.instagram.com/sidmish_here" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
+  </a>
+  <a href="https://www.linkedin.com/in/siddharth-mishra-196a151b9/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+  </a>
+</p>
+
+---
+
+### 🏅 Holopin Badges
+
 [![An image of @sidmish2309's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sidmish2309)](https://holopin.io/@sidmish2309)
 
-<b>My GitHub Stats</b>
-<a href="http://www.github.com/sidmish2309"><img src="https://github-readme-stats.vercel.app/api?username=sidmish2309&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="Siddharth's GitHub stats" /></a>
+---
 
-<a href="http://www.github.com/sidmish2309"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sidmish2309&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<h2 align="center">💻 My GitHub Stats</h2>
 
-<a href="http://www.github.com/sidmish2309"><img src="https://activity-graph.herokuapp.com/graph?username=sidmish2309&bg_color=1c1917&color=ffffff&line=ef4444&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<p align="center">
+  <a href="http://www.github.com/sidmish2309">
+    <img src="https://github-readme-stats.vercel.app/api?username=sidmish2309&show_icons=true&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true" alt="Siddharth's GitHub stats" />
+  </a>
+  <a href="http://www.github.com/sidmish2309">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sidmish2309&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak Stats" />
+  </a>
+</p>
 
-<a href="https://github.com/sidmish2309" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidmish2309&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p align="center">
+  <a href="https://github.com/sidmish2309">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidmish2309&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+  </a>
+</p>
